@@ -1,0 +1,1 @@
+no. of valid topological sort: 48
